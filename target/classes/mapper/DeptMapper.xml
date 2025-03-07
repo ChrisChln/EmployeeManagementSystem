@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.example.hello.mapper.DeptMapper">
+    <!-- 查询所有部门 -->
+    <select id="list" resultType="com.example.hello.entity.Dept">
+        SELECT id, name, create_time, update_time FROM dept
+    </select>
+    
+    <!-- 根据ID查询部门 -->
+    <select id="getById" resultType="com.example.hello.entity.Dept">
+        SELECT id, name, create_time, update_time FROM dept WHERE id = #{id}
+    </select>
+    
+    <!-- 新增部门 -->
+    <insert id="add" useGeneratedKeys="true" keyProperty="id">
+        INSERT INTO dept(name) VALUES(#{name})
+    </insert>
+    
+    <!-- 修改部门 -->
+    <update id="update">
+        UPDATE dept SET name = #{name} WHERE id = #{id}
+    </update>
+    
+    <!-- 删除部门 -->
+    <delete id="delete">
+        DELETE FROM dept WHERE id = #{id}
+    </delete>
+</mapper> 
