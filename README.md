@@ -97,17 +97,7 @@ Contributions are welcome! Please follow these steps to contribute:
 4. Push to the branch (`git push origin feature/YourFeature`).
 5. Open a pull request.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-
-- [Spring Boot](https://spring.io/projects/spring-boot)
-- [Vue.js](https://vuejs.org/)
-- [MyBatis](https://mybatis.org/)
-- [Element Plus](https://element-plus.org/)
-- [MinIO]
 
   ---
 
@@ -154,3 +144,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ![Position Management](assets/positionManagement.png)
 
 ---
+
+## Acknowledgments
+
+- [Spring Boot](https://spring.io/projects/spring-boot)
+- [Vue.js](https://vuejs.org/)
+- [MyBatis](https://mybatis.org/)
+- [Element Plus](https://element-plus.org/)
+- [MinIO]（https://min.io/docs/kes/）
