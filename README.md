@@ -107,4 +107,50 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Vue.js](https://vuejs.org/)
 - [MyBatis](https://mybatis.org/)
 - [Element Plus](https://element-plus.org/)
-- [MinIO](
+- [MinIO]
+
+  ---
+
+## **🔹 Login Page**
+![Login Page](assets/Login.png)
+
+## **🔹 Home Page**
+![Home Page](assets/homePage.png)
+
+---
+
+## **🔹 Department Management**
+### ➤ Add Department
+![Add Department](assets/addDepartment.png)
+
+### ➤ Department Management Dashboard
+![Department Management](assets/departmentManagement.png)
+
+---
+
+## **🔹 Employee Management**
+### ➤ Add Employee
+![Add Employee](assets/addEmployee.png)
+
+### ➤ Edit Employee
+![Edit Employee](assets/editEmployee.png)
+
+### ➤ Employee Detail
+![Employee Detail](assets/employeeDetail.png)
+
+### ➤ Employee List
+![Employee List](assets/employeeList.png)
+
+### ➤ Employee Onboarding
+![Employee Onboarding](assets/employeeOnboarding.png)
+
+---
+
+## **🔹 Position Management**
+### ➤ Add Position
+![Add Position](assets/addPosition.png)
+
+### ➤ Position Management Dashboard
+![Position Management](assets/positionManagement.png)
+
+---
