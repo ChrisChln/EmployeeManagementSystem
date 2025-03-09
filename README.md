@@ -151,4 +151,4 @@ Contributions are welcome! Please follow these steps to contribute:
 - [Vue.js](https://vuejs.org/)
 - [MyBatis](https://mybatis.org/)
 - [Element Plus](https://element-plus.org/)
-- [MinIO]（https://min.io/docs/kes/）
+- [MinIO]((https://min.io/docs/kes/))
